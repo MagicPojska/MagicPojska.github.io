@@ -92,6 +92,10 @@ section{
     color: #e45c01;
 }
 
+footer{
+    display:none;
+}
+
 /* Animations */
 @keyframes slideInFromLeft {
     0% {
@@ -149,7 +153,6 @@ section{
 @media (max-width: 500px) {
     section{
         grid-template-columns: 0fr 1fr;
-     
     }
 
     .content h2{
@@ -171,6 +174,10 @@ section{
     }
     .icons li i{
         font-size: 15px;
+    }
+
+    footer{
+        display: block;
     }
 
 }

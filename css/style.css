@@ -222,6 +222,10 @@ img {
   margin: 0 10px;
 }
 
+.footer img{
+  width: 180px;
+}
+
 /* Animations */
 @keyframes slideInFromLeft {
   0% {

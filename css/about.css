@@ -146,6 +146,18 @@ section{
 
     .content p{
         font-size: 14px;
-
+    }
+    .links li a{
+        font-size: 14px;
+    }
+    .links{
+        margin: 5px 0;
+    }
+    .links li{
+        padding: 6px 10px;
+    }
+    .icons li i{
+        font-size: 15px;
+    }
 
 }

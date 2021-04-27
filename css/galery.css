@@ -3,7 +3,7 @@
 }
   
 body {
-    margin: 0 10%;
+    margin: 0
     font-family: Arial;
 }
   
@@ -16,6 +16,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
+    margin: 0 10%;
 }
   
 .column {

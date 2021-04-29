@@ -101,6 +101,10 @@ img {
   gap: 30px;
 }
 
+.showcase .btn-outline {
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+}
+
 .showcase-text {
   animation: slideInFromLeft 1s ease-in;
 }
@@ -362,5 +366,4 @@ img {
   .navbar a {
     font-size: 0.8rem;
   }
-
 }

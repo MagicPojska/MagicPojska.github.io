@@ -7,7 +7,6 @@ body {
 
 .contact-section{
   padding: 40px 0;
-
   background:linear-gradient(rgb(19, 19, 19), rgba(19, 19, 19, 0.055)), url(/images/bg.jpg) no-repeat center;
   background-size: cover;
 
@@ -50,18 +49,8 @@ textarea.contact-form-text{
   resize: none;
   height: 120px;
 }
-.contact-form-btn{
+.btn{
   float: right;
-  border: 0;
-  background: #e45c01;
-  color: #fff;
-  padding: 12px 50px;
-  border-radius: 20px;
-  cursor: pointer;
-  transition: 0.5s;
-}
-.contact-form-btn:hover{
-  background: #e45c01;
 }
 
 @media (max-width: 500px) {

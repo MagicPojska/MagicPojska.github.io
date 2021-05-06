@@ -5,7 +5,6 @@
   --secondary-color: #e97c00;
   --dark-color: #272727;
   --light-color: #f4f4f4;
-  --success-color: #5cb85c;
   --error-color: #d9534f;
 }
 
@@ -71,8 +70,8 @@ img {
   width: 110px;
 }
 
-.navbar a:hover {
-  border-bottom: 2px #fff solid;
+.navbar ul a:hover {
+  border-bottom: 2px var(--primary-color) solid;
 }
 
 .navbar .flex {

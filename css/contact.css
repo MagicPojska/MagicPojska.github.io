@@ -19,7 +19,7 @@ body {
 .border{
   width: 100px;
   height: 10px;
-  background: #272727;
+  background: var(--primary-color);
   margin: 40px auto;
 }
 
